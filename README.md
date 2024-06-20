@@ -5,7 +5,7 @@
 
 ### 简介
 
-![image-20240312123001802](.\assets\image-20240312123001802.png)
+![image-20240312123001802](https://raw.githubusercontent.com/Leonardo1120316/AssociationManager/main/assets/image-20240312123001802.png)
 
 
 
